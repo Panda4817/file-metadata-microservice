@@ -9,5 +9,6 @@
 ### Usage :
 * Go to the main page, and upload a file using the provided form.
 
-### Hint:
+### Requirements:
 * To handle the file uploading I used [multer](https://www.npmjs.com/package/multer) npm package.
+* ExpressJS server
